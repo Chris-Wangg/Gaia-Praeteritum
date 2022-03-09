@@ -1,5 +1,5 @@
 # Gaia-Praeteritum
-A lore poem from a videogame.
+- A lore poem from a videogame.
 
 _Will of iron,_
 
